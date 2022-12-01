@@ -1,0 +1,14 @@
+.signinContainer {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  gap: 24px;
+}
+
+.faIconPosition {
+  float: left !important;
+}
