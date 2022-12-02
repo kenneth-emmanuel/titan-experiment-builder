@@ -28,7 +28,7 @@ const Search = () => {
   }
 
   return (
-    <div className='signinContainer text-center'>
+    <div className='centeredContent text-center'>
       <h3>Search Page</h3>
       <h6>
         Logged in as <em>{loggedInUser}</em>
